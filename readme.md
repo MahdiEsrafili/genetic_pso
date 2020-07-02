@@ -10,4 +10,6 @@ This repo contains two projects. the genetic directory contains Matlab codes tha
 
 the genetic_pso contains some comparison between two algorithms. also pso algorithm implemented in Matlab is presented.
 
+The graph directories contains graph in .fig format which Matlabs native format for saving figures.
+
 Hope it helps you :)
